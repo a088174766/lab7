@@ -1,0 +1,374 @@
+.block1 { 
+	background-color:rgba(205, 218, 251, 1);
+	width:720px;
+	height:1280px;
+	position:absolute;
+}
+.block2 { 
+	box-shadow:0px 5.5px 5.5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:257px;
+	height:164px;
+	position:absolute;
+	left:57px;
+	top:680px;
+}
+.nap_int { 
+	color:rgba(0, 0, 0, 1);
+	width:228px;
+	height:45px;
+	position:absolute;
+	left:39px;
+	top:4px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.bk3 { 
+	box-shadow:0px 5px 5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:257px;
+	height:106px;
+	position:absolute;
+	left:60px;
+	top:877px;
+}
+.prof { 
+	color:rgba(0, 0, 0, 1);
+	width:114px;
+	height:23px;
+	position:absolute;
+	left:70px;
+	top:4px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.bk4 { 
+	box-shadow:0px 5px 5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:260px;
+	height:173px;
+	position:absolute;
+	left:60px;
+	top:1015px;
+}
+.inter { 
+	color:rgba(0, 0, 0, 1);
+	width:94px;
+	height:19px;
+	position:absolute;
+	left:82px;
+	top:5px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.game { 
+	color:rgba(0, 0, 0, 1);
+	width:216px;
+	height:66px;
+	position:absolute;
+	left:40px;
+	top:30px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.bk5 { 
+	box-shadow:0px 5px 5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:260px;
+	height:144px;
+	position:absolute;
+	left:382px;
+	top:438px;
+}
+.educt { 
+	color:rgba(0, 0, 0, 1);
+	width:132px;
+	height:20px;
+	position:absolute;
+	left:64px;
+	top:8px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.scool { 
+	color:rgba(0, 0, 0, 1);
+	width:162px;
+	height:61px;
+	position:absolute;
+	left:53px;
+	top:36px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.ystu { 
+	color:rgba(0, 0, 0, 1);
+	width:165px;
+	height:29px;
+	position:absolute;
+	left:57px;
+	top:105px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.bk6 { 
+	box-shadow:0px 5px 5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:260px;
+	height:128px;
+	position:absolute;
+	left:382px;
+	top:614px;
+}
+.navik { 
+	color:rgba(0, 0, 0, 1);
+	width:73px;
+	height:18px;
+	position:absolute;
+	left:93px;
+	top:5px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.ris { 
+	color:rgba(0, 0, 0, 1);
+	width:164px;
+	height:37px;
+	position:absolute;
+	left:48px;
+	top:29px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.naviki { 
+	color:rgba(0, 0, 0, 1);
+	width:180px;
+	height:33px;
+	position:absolute;
+	left:48px;
+	top:56px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.lub { 
+	color:rgba(0, 0, 0, 1);
+	width:160px;
+	height:33px;
+	position:absolute;
+	left:48px;
+	top:80px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.krit { 
+	color:rgba(0, 0, 0, 1);
+	width:196px;
+	height:26px;
+	position:absolute;
+	left:48px;
+	top:100px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e1_15 { 
+	box-shadow:0px 5px 5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:260px;
+	height:321px;
+	position:absolute;
+	left:383px;
+	top:774px;
+}
+.lang { 
+	color:rgba(0, 0, 0, 1);
+	width:188px;
+	height:40px;
+	position:absolute;
+	left:36px;
+	top:10px;
+	font-family:Inter;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.c { 
+	color:rgba(0, 0, 0, 1);
+	width:189px;
+	height:33px;
+	position:absolute;
+	left:46px;
+	top:74px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+
+
+.e1_6 { 
+	box-shadow:0px 6.962963104248047px 6.962963104248047px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:235px;
+	height:254.1481475830078px;
+	position:absolute;
+	left:69px;
+	top:71px;
+}
+.foto { 
+	width:193px;
+	height:228px;
+	position:absolute;
+	left:20px;
+	top:13px;
+	background-image:url(https://distribution.faceit-cdn.net/images/420f687f-3393-4aea-ba52-7f0ba8581483.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_7 { 
+	box-shadow:0px 5 px 5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:260px;
+	height:334px;
+	position:absolute;
+	left:376px;
+	top:71px;
+}
+.your { 
+	color:rgba(0, 0, 0, 1);
+	width:64px;
+	height:22px;
+	position:absolute;
+	left:97px;
+	top:13px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.zub { 
+	color:rgba(0, 0, 0, 1);
+	width:149px;
+	height:40px;
+	position:absolute;
+	left:54px;
+	top:44px;
+	font-family:Inter;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.stud { 
+	color:rgba(0, 0, 0, 1);
+	width:128px;
+	height:36px;
+	position:absolute;
+	left:62px;
+	top:92px;
+	font-family:Inter;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.likegame { 
+	color:rgba(0, 0, 0, 1);
+	width:174px;
+	height:89px;
+	position:absolute;
+	left:66px;
+	top:130px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e1_8 { 
+	box-shadow:0px 5px 5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:260px;
+	height:111px;
+	position:absolute;
+	left:57px;
+	top:357px;
+}
+.kont { 
+	color:rgba(0, 0, 0, 1);
+	width:120px;
+	height:37px;
+	position:absolute;
+	left:69px;
+	top:6px;
+	font-family:Inter;
+	text-align:left;
+	font-size:19px;
+	letter-spacing:0;
+}
+.num { 
+	color:rgba(0, 0, 0, 1);
+	width:159px;
+	height:22px;
+	position:absolute;
+	left:41px;
+	top:44px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+
+.e1_9 { 
+	box-shadow:0px 5.5px 5.5px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:257px;
+	height:148px;
+	position:absolute;
+	left:57px;
+	top:500px;
+}
+.lan { 
+	color:rgba(0, 0, 0, 1);
+	width:104px;
+	height:31px;
+	position:absolute;
+	left:104px;
+	top:10px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.rus { 
+	color:rgba(0, 0, 0, 1);
+	width:141px;
+	height:31px;
+	position:absolute;
+	left:45px;
+	top:56px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+
